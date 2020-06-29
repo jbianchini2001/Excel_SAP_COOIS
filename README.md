@@ -1,4 +1,4 @@
-# Excel_SAP_COOIS
+# Excel => SAP COOIS
  Run SAP transaction, COOIS, from a Excel spreadsheet via VBA.
  Main target of the report: show, per work center, the operation/activity where the production order is at the moment that the report was generated.
  Requeriments: SAP logon pad installed and access to a SAP environment.
