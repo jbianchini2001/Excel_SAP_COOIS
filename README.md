@@ -4,5 +4,6 @@
  Requeriments: SAP logon pad installed and access to a SAP environment.
 # How to run it:
  1) Open the excel spreadsheet;
- 2) Leave SAP open on the main screen or leave SAP logon pad opened and then go to the VBA source-code and change the constant "connection_text" to your environment text;
-  3) Follow the steps on the tab "run".
+ 2) Update the list of work centers on the "work centers" sheet;
+ 3) Leave SAP open on the main screen or leave SAP logon pad opened and then go to the VBA source-code and change the constant "connection_text" to your environment text;
+ 4) Follow the steps on the tab "run".
